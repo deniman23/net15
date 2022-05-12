@@ -1,0 +1,10 @@
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/bin/Debug/netstandard2.0/Lesson-8-ATM-Advanced.deps.json
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/bin/Debug/netstandard2.0/Lesson-8-ATM-Advanced.dll
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/bin/Debug/netstandard2.0/Lesson-8-ATM-Advanced.pdb
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.csproj.AssemblyReference.cache
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.AssemblyInfoInputs.cache
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.AssemblyInfo.cs
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.csproj.CoreCompileInputs.cache
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.dll
+/Users/daniiltolkachev/Desktop/git/NET-15/Lessons/Lesson-8-Exceptions-Collections/Lesson-8-ATM-Advanced/obj/Debug/netstandard2.0/Lesson-8-ATM-Advanced.pdb
